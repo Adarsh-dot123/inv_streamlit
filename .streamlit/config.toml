@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#FFD700"         # Gold
+backgroundColor="#000000"      # Pure Black
+secondaryBackgroundColor="#111111" 
+textColor="#FFD700"            # Gold text
+font="sans serif"
